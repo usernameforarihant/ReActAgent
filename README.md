@@ -1,2 +1,2 @@
 # ReActAgent
-Implmenting ReAct agent logic without framework ..pure python
+Implementing ReAct agent logic without framework ..pure python
